@@ -1,0 +1,1 @@
+# EMG-prosthetic-arm-project
